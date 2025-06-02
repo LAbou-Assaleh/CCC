@@ -7,13 +7,21 @@ This repository contains my personal solutions to past problems from the **Canad
 Each directory is organized by competition year. Inside each folder, you'll find solutions to the Junior (`J1`–`J5`) and/or Senior (`S1`–`S5`) problems.
 
 CCC/
+
 ├── 2021/
+
 │   ├── J1.py
+
 │   ├── S1.cpp
+
 │   └── …
+
 ├── 2022/
+
 ├── 2023/
+
 ├── 2024/
+
 └── …
 
 License:
