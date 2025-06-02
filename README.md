@@ -7,7 +7,6 @@ This repository contains my personal solutions to past problems from the **Canad
 Each directory is organized by competition year. Inside each folder, you'll find solutions to the Junior (`J1`–`J5`) and/or Senior (`S1`–`S5`) problems.
 
 <pre>
-```text
 CCC/
 ├── 2021/
 │   ├── J1.py
@@ -17,7 +16,6 @@ CCC/
 ├── 2023/
 ├── 2024/
 └── ...
-```
 </pre>
 
 
