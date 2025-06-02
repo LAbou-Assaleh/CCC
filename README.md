@@ -8,20 +8,13 @@ Each directory is organized by competition year. Inside each folder, you'll find
 
 CCC/
 
-├── 2021/
-
-│   ├── J1.py
-
-│   ├── S1.cpp
-
-│   └── …
-
-├── 2022/
-
-├── 2023/
-
-├── 2024/
-
+├── 2021/  
+│   ├── J1.py  
+│   ├── S1.cpp  
+│   └── …  
+├── 2022/  
+├── 2023/  
+├── 2024/  
 └── …
 
 License:
